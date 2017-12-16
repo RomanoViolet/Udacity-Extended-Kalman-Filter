@@ -1,7 +1,15 @@
-# Extended Kalman Filter Project Starter Code
-Self-Driving Car Engineer Nanodegree Program
+# Extended Kalman Filter
 
-In this project you will utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project rubric. 
+## About
+This project implements the Extended Kalman Filter (EKF) as required by the Udacity's [Self Driving Car Nano-Degree program.](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+
+### How it Looks
+A sample frame from one of the videos overlaid with markers is ![shown](https://github.com/RomanoViolet/Udacity-LaneDetection/blob/master/Results/vlcsnap-2017-12-16-00h00m30s932.png)
+
+
+
+
+
 
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
 
