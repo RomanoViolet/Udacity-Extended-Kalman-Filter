@@ -3,7 +3,7 @@
 ## About
 This project implements the Extended Kalman Filter (EKF) as required by the Udacity's [Self Driving Car Nano-Degree program.](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
-The input data to the Extended Kalman Filter comes from a radar and a lidar on a vehicle as it tracks one object.
+The input data to the Extended Kalman Filter comes from a radar and a lidar mounted on a vehicle as it tracks one object.
 The Extended Kalman filter fuses the information from radar and lidar sensors and estimates the overall trajectory of the vehicle being tracked.
 
 
